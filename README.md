@@ -1,2 +1,2 @@
 # lab-PC
-Repo de la materia Laboratorio de Programacion para Ciberseguridad
+Repo de Laboratorio de Programacion para Ciberseguridad
